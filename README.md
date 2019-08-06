@@ -25,7 +25,13 @@ goal point = {4,8}
 ### Output
 
 #### All posible search
-This shows all the possible search that the astar did before finding the goal point
+This shows all the possible search that the astar did before finding the goal point.
+
+starting point = 🚦,
+goal point = 🏁,
+obstacle = ⛰️,
+way = 0,
+robot = 🚗,
 ```
 🚦   🚗   ⛰️   ⛰️   0   0   ⛰️   ⛰️   0   
 🚗   ⛰️   0   0   0   0   0   0   0   
